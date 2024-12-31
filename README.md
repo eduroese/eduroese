@@ -1,4 +1,6 @@
-## Hi there 👋
+## - 🔭 I’m currently working on new projects!
+## - 📫 How to reach me: dudusantos58@hotmail.com
+## - 🌱 I’m currently learning everything at the same time :)
 
 <!--
 **eduroese/eduroese** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
